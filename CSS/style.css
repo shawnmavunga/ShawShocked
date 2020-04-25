@@ -1,0 +1,34 @@
+section button {
+  text-align:center;
+}
+
+.hero {
+  display:grid;
+}
+.nav-link:hover {
+  background-color:gray;
+}
+.nav-link a:hover {
+  {.text-dark:white;}
+}
+
+#logo {
+  padding-bottom:3px;
+}
+
+.padding-form {
+  padding:10%S;
+}
+
+.introtext {
+  padding:20px;
+}
+form {
+  padding:20px;
+  border:1px solid indianred;
+  color:white;
+  background-color:indianred;
+}
+.wrapper {
+  padding:25px;
+}
